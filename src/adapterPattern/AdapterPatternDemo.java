@@ -14,5 +14,7 @@ public class AdapterPatternDemo {
 		System.out.println(customer.getAge());
 		System.out.println(customer.getAddress());
 
+		//TEST 22ss
+
 	}
 }
